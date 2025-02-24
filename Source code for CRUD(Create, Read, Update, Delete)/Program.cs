@@ -1,0 +1,24 @@
+namespace hihi
+{
+    internal static class Program
+    {
+        /// <summary>
+        ///  The main entry point for the application.
+        /// </summary>
+        [STAThread]
+        static void Main()
+        {
+            // To customize application configuration such as set high DPI settings or default font,
+            // see https://aka.ms/applicationconfiguration.
+            ApplicationConfiguration.Initialize();
+            Application.Run(new fLogin());
+            //Application.Run(new fTableManager());
+            //Application.Run(new fPhongTro());
+            //Application.Run(new fKhachThue());
+            //Application.Run(new fHopdong());
+            //Application.Run(new fAdmincs());
+            //Application.Run(new fThongtincanhan());
+            //Application.Run(new fChangePassword());
+        }
+    }
+}

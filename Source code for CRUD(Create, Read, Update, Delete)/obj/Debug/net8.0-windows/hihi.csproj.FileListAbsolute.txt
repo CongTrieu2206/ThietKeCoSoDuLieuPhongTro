@@ -1,0 +1,142 @@
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\bin\Debug\net8.0-windows\hihi.exe
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\bin\Debug\net8.0-windows\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\obj\Debug\net8.0-windows\hihi.fAdmincs.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\obj\Debug\net8.0-windows\hihi.fChangePassword.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\obj\Debug\net8.0-windows\hihi.fLogin.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\obj\Debug\net8.0-windows\hihi.fTableManager.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\obj\Debug\net8.0-windows\hihi.fThongtincanhan.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\obj\Debug\net8.0-windows\hihi.Properties.Resources.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\obj\Debug\net8.0-windows\hihi.csproj.GenerateResource.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\obj\Debug\net8.0-windows\hihi.GeneratedMSBuildEditorConfig.editorconfig
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\obj\Debug\net8.0-windows\hihi.AssemblyInfoInputs.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\obj\Debug\net8.0-windows\hihi.AssemblyInfo.cs
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\obj\Debug\net8.0-windows\hihi.csproj.CoreCompileInputs.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\obj\Debug\net8.0-windows\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\obj\Debug\net8.0-windows\refint\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi\obj\Debug\net8.0-windows\hihi.pdb
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\bin\Debug\net8.0-windows\hihi.exe
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\bin\Debug\net8.0-windows\hihi.deps.json
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\bin\Debug\net8.0-windows\hihi.runtimeconfig.json
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\bin\Debug\net8.0-windows\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\bin\Debug\net8.0-windows\hihi.pdb
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\hihi.fAdmincs.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\hihi.fChangePassword.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\hihi.fLogin.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\hihi.fTableManager.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\hihi.fThongtincanhan.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\hihi.Properties.Resources.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\hihi.csproj.GenerateResource.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\hihi.GeneratedMSBuildEditorConfig.editorconfig
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\hihi.AssemblyInfoInputs.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\hihi.AssemblyInfo.cs
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\hihi.csproj.CoreCompileInputs.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\refint\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\hihi.pdb
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\hihi.genruntimeconfig.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy\obj\Debug\net8.0-windows\ref\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\bin\Debug\net8.0-windows\hihi.exe
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\bin\Debug\net8.0-windows\hihi.deps.json
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\bin\Debug\net8.0-windows\hihi.runtimeconfig.json
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\bin\Debug\net8.0-windows\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\bin\Debug\net8.0-windows\hihi.pdb
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\hihi.fAdmincs.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\hihi.fChangePassword.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\hihi.fLogin.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\hihi.fTableManager.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\hihi.fThongtincanhan.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\hihi.Properties.Resources.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\hihi.csproj.GenerateResource.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\hihi.GeneratedMSBuildEditorConfig.editorconfig
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\hihi.AssemblyInfoInputs.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\hihi.AssemblyInfo.cs
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\hihi.csproj.CoreCompileInputs.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\refint\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\hihi.pdb
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\hihi.genruntimeconfig.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy\obj\Debug\net8.0-windows\ref\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.exe
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.deps.json
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.runtimeconfig.json
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.pdb
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fAdmincs.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fChangePassword.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fLogin.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fTableManager.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fThongtincanhan.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.Properties.Resources.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.csproj.GenerateResource.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.GeneratedMSBuildEditorConfig.editorconfig
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.AssemblyInfoInputs.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.AssemblyInfo.cs
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.csproj.CoreCompileInputs.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\refint\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.pdb
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.genruntimeconfig.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy\obj\Debug\net8.0-windows\ref\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.exe
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.deps.json
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.runtimeconfig.json
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.pdb
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fAdmincs.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fChangePassword.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fLogin.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fTableManager.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fThongtincanhan.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.Properties.Resources.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.csproj.GenerateResource.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.GeneratedMSBuildEditorConfig.editorconfig
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.AssemblyInfoInputs.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.AssemblyInfo.cs
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.csproj.CoreCompileInputs.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\refint\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.pdb
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.genruntimeconfig.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\ref\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.exe
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.deps.json
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.runtimeconfig.json
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.pdb
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fAdmincs.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fChangePassword.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fLogin.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fTableManager.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fThongtincanhan.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.Properties.Resources.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.csproj.GenerateResource.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.GeneratedMSBuildEditorConfig.editorconfig
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.AssemblyInfoInputs.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.AssemblyInfo.cs
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.csproj.CoreCompileInputs.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\refint\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.pdb
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.genruntimeconfig.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\ref\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.exe
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.deps.json
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.runtimeconfig.json
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\bin\Debug\net8.0-windows\hihi.pdb
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fAdmincs.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fChangePassword.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fLogin.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fTableManager.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.fThongtincanhan.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.Properties.Resources.resources
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.csproj.GenerateResource.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.GeneratedMSBuildEditorConfig.editorconfig
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.AssemblyInfoInputs.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.AssemblyInfo.cs
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.csproj.CoreCompileInputs.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\refint\hihi.dll
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.pdb
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\hihi.genruntimeconfig.cache
+E:\HK5\QuanTriCSDL\VSC_DEMO\hihi - Copy - Copy - Copy - Copy - Copy - Copy\obj\Debug\net8.0-windows\ref\hihi.dll
